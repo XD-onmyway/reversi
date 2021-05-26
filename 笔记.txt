@@ -1,0 +1,2 @@
+pyinstaller.exe --onefile --windowed reversi.py
+用来打包成exe的代码
